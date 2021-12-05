@@ -73,5 +73,5 @@ button {
 }
 button:hover,
 button:focus {
-  background-color: #a1eafbf2;
+  background-color: rgba(255, 255, 255, 0.842);
 }
