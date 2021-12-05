@@ -71,3 +71,7 @@ button {
   font-weight: 500;
   outline: none;
 }
+button:hover,
+button:focus {
+  background-color: #a1eafbf2;
+}
