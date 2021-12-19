@@ -24,6 +24,7 @@ function App() {
     reducer,
     {}
   );
+  dispatch({ type: ACTIONS.ADD_DIGIT, payload: { digit: 1 } });
   return (
     <div className="calculator-grid">
       <div className="output">
